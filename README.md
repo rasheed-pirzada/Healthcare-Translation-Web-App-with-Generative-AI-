@@ -11,3 +11,9 @@ Tech Stack
 Framework: Next.js (React)
 Styling: Tailwind CSS
 API: Gemini / OpenAI API (can be swapped)
+
+npm install
+
+Run the development server:
+npm run dev
+
