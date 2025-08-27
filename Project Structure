@@ -1,0 +1,10 @@
+
+healthcare-translator/
+ ├── pages/
+ │   └── index.js     # Main translation page
+ ├── components/
+ │   └── Translator.js # Translator UI component
+ ├── styles/
+ │   └── globals.css  # Tailwind styles
+ ├── package.json
+ └── README.md
