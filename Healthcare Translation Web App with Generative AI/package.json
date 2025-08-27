@@ -1,0 +1,30 @@
+{
+  "name": "ai-healthcare-translator",
+  "version": "1.0.0",
+  "description": "Real-time healthcare translation web app using AI and speech recognition",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'No build required for vanilla JS app'",
+    "start": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "healthcare",
+    "translation",
+    "AI",
+    "speech-recognition",
+    "gemini-api",
+    "web-speech-api",
+    "medical",
+    "accessibility"
+  ],
+  "author": "AI Healthcare Translator Team",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
